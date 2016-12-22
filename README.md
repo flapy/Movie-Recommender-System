@@ -1,5 +1,4 @@
 # Movie-Recommender-System
-As a part of B.Tech Project
 
 The dataset which is used as a sample for this project can be downloaded found [here](http://files.grouplens.org/datasets/movielens/ml-20m.zip). 
 GroupLens Research has collected and made available rating data sets from the MovieLens web site (http://movielens.org). 
@@ -9,11 +8,8 @@ module.
 
 Note : This is an ongoing project and the modules are still under testing phase. The integration of these modules is yet to be done.
 
-Contributors :
-Aadhar Jain : aadharjain1@gmail.com
-
-Pratishtha Patni : pratishthapatni@gmail.com
-
-Saloni Goyal : eversaloni@gmail.com
-
+Contributors :<br/>
+Aadhar Jain : aadharjain1@gmail.com<br/>
+Pratishtha Patni : pratishthapatni@gmail.com<br/>
+Saloni Goyal : eversaloni@gmail.com<br/>
 Chirag Agarwal (Myself)
